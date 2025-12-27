@@ -1,0 +1,7 @@
+def missingNum(self,arr):
+    n=len(arr)
+    n=n+1
+    total.sum(n*(n-1))//2
+    sum=0
+    for i in range(len(arr)):
+        sum=arr{inreturn total_sum      
